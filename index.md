@@ -7,10 +7,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-# Hey There
-- asdf
-- woah bullets
+# Matthew Kurniawan's First CS193 Homework
+- The TAs
+- The easy to follow instructions
+- The teaching of useful and current technologies
+- the vibes <3
 
 ```markdown
 Syntax highlighted code block
